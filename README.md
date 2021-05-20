@@ -1,3 +1,3 @@
 # json-server
 
-a Json server for frontend assigment.
+a Json server for age of empires units.
