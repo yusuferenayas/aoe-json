@@ -1,7 +1,7 @@
 {
   "name": "aoe-server",
   "version": "1.0.0",
-  "description": "a Json server for frontend assigment.",
+  "description": "a Json server for age of empires units.",
   "main": "server.js",
   "dependencies": {
     "json-server": "^0.16.3"
@@ -13,12 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yusuferenayas/json-server.git"
+    "url": "git+https://github.com/yusuferenayas/aoe-json.git"
   },
   "author": "Yusuf Eren Ayas",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yusuferenayas/json-server/issues"
+    "url": "https://github.com/yusuferenayas/aoe-json/issues"
   },
-  "homepage": "https://github.com/yusuferenayas/json-server#readme"
+  "homepage": "https://github.com/yusuferenayas/aoe-json#readme"
 }
