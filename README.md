@@ -1,3 +1,17 @@
-# json-server
+# Json Server for Age of Empries Wiki
 
-a Json server for age of empires units.
+It's live and demo can be checked from this link. 
+
+https://not-yet.herokuapp.com/
+
+
+If you want to launch it on your local. Just clone repo, install npm then 
+
+```
+yarn start
+```
+```
+npm start
+```
+
+Server will be published on http://localhost:3004/
