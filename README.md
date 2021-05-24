@@ -2,7 +2,7 @@
 
 It's live and demo can be checked from this link. 
 
-https://not-yet.herokuapp.com/
+https://aoe-server.herokuapp.com/
 
 
 If you want to launch it on your local. Just clone repo, install npm then 
